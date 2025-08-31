@@ -1,96 +1,81 @@
-<h1 align="center" style="color: #FF6347;">𝐓𝐇𝐄 𝐅𝐋𝐀𝐒𝐇 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄</h1>
+# 🚀 FLASH-MD-V2: The Ultimate WhatsApp Bot
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS+FOR+CHOOSING+FLASH-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FRANCE+KING;RELEASED+22.2.2024" alt="Typing SVG" />
-  </a>
+  <img src="https://files.catbox.moe/fpase8.jpg" alt="FLASH-MD-V2 Banner" width="600"/>
 </p>
 
-<p align="center">
-  <img alt="FLASH-MD" width="700" height="300" src="https://files.catbox.moe/tvo4g6.jpg">
-</p>
+**FLASH-MD-V2** is a powerful, fully customizable WhatsApp bot built with **Node.js** and the **WhatsApp Web API**. Automate tasks, manage groups, and enhance your WhatsApp experience with ease.
+## CONNECT TO WHATSAPP:
+- **STAR REPO AND THEN** [FORK IT](https://github.com/franceking1/Flash-Md-V2/fork) 
+- **GET SESSION ID USING** [PAIRING CODE](https://flash-v2-session.onrender.com/pair)
+
+
+---
+### 🚀 Deployment Platforms:
+
+| **Platform**        | **Instructions** |
+|---------------------|------------------|
+| **Heroku**          | **Heroku deployment guide**:<br>1. Create an account on [Heroku](https://signup.heroku.com)<br>2. Add a credit card (required for deployment).<br>3. Use [this tool](https://france-king.vercel.app/) to deploy FLASH-MD V2 instantly. |
+| **Render**          | 1. Sign up at [Render](https://render.com) & link GitHub.<br>2. Set Build Command as `npm install` & Start Command as `npm start`.<br>3. Deploy without session env first.<br>4. After first deploy, add `SESSION`, `YOUR_NUMBER`, and `YOUR_LID` to `.env`.<br>5. To keep it 24/7, add your Render app link to `.env`. |
+| **Koyeb**           | 1. Sign up at [Koyeb](https://www.koyeb.com) & link GitHub.<br>2. Set up environment variables: `YOUR_NUMBER`, `YOUR_LID`, `SESSION`.<br>3. Deploy using Node.js auto-detect. |
+| **Railway**         | 1. Sign up at [Railway](https://railway.app) & link GitHub.<br>2. Set Build Command as `npm install` & Start Command as `npm start`.<br>3. Add environment variables: `YOUR_NUMBER`, `YOUR_LID`, `SESSION`.<br>4. Deploy & your bot is live! |
+| **Bot-Hosting.net** | 1. **[DOWNLOAD THE ZIP HERE](https://github.com/franceking1/Flash-Md-V2/archive/refs/heads/main.zip)**.<br>2. Go to [Bot-Hosting.net](https://bot-hosting.net) and create a new Node.js app.<br>3. Upload and extract the ZIP contents.<br>4. Add environment variables: `SESSION`, `YOUR_NUMBER`, `YOUR_LID`.<br>5. Start your bot from the panel. |
+| **Optiklink.com**   | 1. **[DOWNLOAD THE ZIP HERE](https://github.com/franceking1/Flash-Md-V2/archive/refs/heads/main.zip)**.<br>2. Go to [Optiklink.com](https://optiklink.com) and create a Node.js project.<br>3. Upload and extract the ZIP.<br>4. Set `.env` values: `SESSION`, `YOUR_NUMBER`, `YOUR_LID`.<br>5. Start the bot via terminal or web console. |
+| **Termux**          | **Termux Setup Instructions**:<br>1. Install [Termux](https://f-droid.org/packages/com.termux/) on Android.<br>2. Clone the repo and navigate into the folder.<br>3. Install dependencies and run the bot with the commands below. |
+
+### 📚 TERMUX Setup Instructions:
+
+#### 1. Clone the repository:
+
+```bash
+git clone https://github.com/franceking1/FLASH-MD-V2.git
+```
+```bash
+cd FLASH-MD-V2
+```
+```bash
+npm install
+```
+```bash
+npm start
+
+``` 
+---
+
+### 🙏 Credits & Licensing
+
+| **Contributor** | **Role** |
+|------------------|----------|
+| [Baileys](https://github.com/WhiskeySockets/Baileys) | Core WhatsApp Web API Library |
+| [FranceKing1](https://github.com/franceking1) | Developer & Maintainer of FLASH-MD-V2 |
 
 ---
 
-### 🌟 **Repository Stats**:
-<p align="center">
-  <a href="https://github.com/franceking1/Flash-Md/stargazers">
-    <img src="https://img.shields.io/github/stars/franceking1/Flash-Md?style=for-the-badge&logo=github&color=ff9800" alt="Stars" />
-  </a>
-  <a href="https://github.com/franceking1/Flash-Md/network/members">
-    <img src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=for-the-badge&logo=github&color=4CAF50" alt="Forks" />
-  </a>
-  <a href="https://github.com/franceking1/Flash-Md/watchers">
-    <img src="https://img.shields.io/github/watchers/franceking1/Flash-Md?style=for-the-badge&logo=github&color=2196F3" alt="Watchers" />
-  </a>
-  <a href="https://github.com/franceking1/Flash-Md/issues">
-    <img src="https://img.shields.io/github/issues/franceking1/Flash-Md?style=for-the-badge&logo=github&color=e91e63" alt="Issues" />
-  </a>
-  <a href="https://github.com/franceking1/Flash-Md/pulls">
-    <img src="https://img.shields.io/github/issues-pr/franceking1/Flash-Md?style=for-the-badge&logo=github&color=673AB7" alt="Pull Requests" />
-  </a>
-</p>
+### ⚠️ Warning
+
+- **Do NOT copy, modify, or redistribute** this bot without **proper permission**.
+- FLASH-MD-V2 is an **open-source project**, but it is protected by its license and community standards.
+- Give **proper credits** to the original authors and libraries used.
+- Any misuse or abuse of this bot is **strictly prohibited**.
 
 ---
+***
+### HELP :
+**IF you need any help**
+- [**CLICK HERE**](https://messages-snowy.vercel.app)
+- [**Click here to send suggestions or queries**](https://suggestions-phi.vercel.app) 
 
-### 🚀 **Quick Start:**
 
-1. **Star ⭐ & Fork** the Repo:
-   - **[Star](https://github.com/franceking1/Flash-Md)** & **[Fork](https://github.com/franceking1/Flash-Md/fork)** this repository to your GitHub account.
+***
 
-2. **Get Your Session ID Using**:
-   - **[Pairing Code 1](https://tinyurl.com/af7xcjh7)**
-   - **[Pairing Code 2](https://newflash-sessions.onrender.com/)**
-   
+### ⭐ Support This Project
 
-   > **⚠️ Important**: Copy your Session ID – you will need it for deployment.
+| **Action** | **Purpose** |
+|------------|-------------|
+| [Use This Template](https://github.com/franceking1/FLASH-MD-V2/generate) | Create your own working bot easily. Eg, for hosting on render ‼️ |
+| [Fork This Repo](https://github.com/franceking1/FLASH-MD-V2/fork) | Show your support and boost visibility |
 
+> Every ⭐ star and fork makes a big difference — thank you for supporting **FLASH-MD-V2**!
+
+> Powered by France King 
 ---
-
-### 🚀 **Deploy to Heroku:**
-
-Now that you have your session ID, deploy the bot to Heroku:
-
-1. **Create a Heroku Account** (If you don’t have one):  
-   <p align="center">
-     <a href="https://signup.heroku.com">
-       <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
-     </a>
-   </p>
-
-2. **Deploy Flash-MD** Now (If you already have a Heroku account):  
-   <p align="center">
-     <a href="https://france-king.vercel.app">
-       <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
-     </a>
-   </p>
-
----
-
-### ⚠️ **Disclaimer:**
-
-- **Modifying** or **redistributing** this script is **prohibited**.
-- **No support** will be provided for modified versions.
-
----
-
-### 🛠 **Need Help?**
-
-If you face any issues or need assistance:
-- **[Click here for support](https://messages-snowy.vercel.app)**
-
----
-
-### 🙏 **Special Thanks:**
-
-Huge thanks to these amazing contributors:
-
-- [**Fortunatus Mokaya**](https://github.com/Fortunatusmokaya) – For adding awesome commands.
-- [**Gifted Tech**](https://github.com/mouricedevs) – For session generation support.
-- [**Suhail Ser**](https://github.com/SuhailTechInfo) – For code encryption improvements.
-- [**Luffy**](https://github.com/Luffy2ndAccount) – For providing the base code of **Flash-MD**.
-
----
-
-### 🎉 **Thank You for Choosing Flash-MD!**
- © 2025 **All Rights Reserved**

@@ -1,1 +1,110 @@
-const _0x389919=_0x2ec4;function _0x2ec4(_0x10f266,_0x4d38a6){const _0x4bf468=_0x4bf4();return _0x2ec4=function(_0x2ec4d2,_0x5b8bec){_0x2ec4d2=_0x2ec4d2-0xa4;let _0x5addbb=_0x4bf468[_0x2ec4d2];return _0x5addbb;},_0x2ec4(_0x10f266,_0x4d38a6);}(function(_0x5f2a18,_0x575e8f){const _0xeafdea=_0x2ec4,_0x55a234=_0x5f2a18();while(!![]){try{const _0x385088=-parseInt(_0xeafdea(0xb7))/0x1+parseInt(_0xeafdea(0xbe))/0x2*(parseInt(_0xeafdea(0xc0))/0x3)+-parseInt(_0xeafdea(0xb6))/0x4+-parseInt(_0xeafdea(0xaf))/0x5+-parseInt(_0xeafdea(0xa8))/0x6*(parseInt(_0xeafdea(0xbd))/0x7)+-parseInt(_0xeafdea(0xad))/0x8+-parseInt(_0xeafdea(0xb0))/0x9*(-parseInt(_0xeafdea(0xa4))/0xa);if(_0x385088===_0x575e8f)break;else _0x55a234['push'](_0x55a234['shift']());}catch(_0x209033){_0x55a234['push'](_0x55a234['shift']());}}}(_0x4bf4,0x2f5b6));const {king}=require('../france/king'),{addOrUpdateDataInAlive,getDataFromAlive}=require('../data/alive'),moment=require('moment-timezone'),s=require(__dirname+_0x389919(0xb8));king({'nomCom':'alive','categorie':'General'},async(_0x149433,_0x16aa79,_0x4af2fe)=>{const _0x517fa7=_0x389919,{ms:_0x564f9f,arg:_0x1c91bc,repondre:_0x3d9994,superUser:_0x9261f9}=_0x4af2fe,_0x448214=await getDataFromAlive();if(!_0x1c91bc||!_0x1c91bc[0x0]||_0x1c91bc[_0x517fa7(0xae)]('')===''){if(_0x448214){const {message:_0x5488c4,lien:_0x1c56f3}=_0x448214;var _0x120f18=_0x517fa7(0xac);s['MODE'][_0x517fa7(0xb3)]()!=_0x517fa7(0xac)&&(_0x120f18='Private');moment['tz'][_0x517fa7(0xbb)](_0x517fa7(0xba));const _0x107c26=moment()[_0x517fa7(0xa9)]('HH:mm:ss'),_0x1327de=moment()[_0x517fa7(0xa9)](_0x517fa7(0xab)),_0x400731=_0x517fa7(0xc3)+_0x5488c4+_0x517fa7(0xb5)+s['OWNER_NAME']+_0x517fa7(0xa6)+_0x120f18+_0x517fa7(0xb2)+_0x1327de+_0x517fa7(0xaa)+_0x107c26+'\x0a\x0a\x0a\x20\x0a\x20*FLASH-MD\x20by\x20_France\x20King_\x20is\x20alive*';if(_0x1c56f3[_0x517fa7(0xb4)](/\.(mp4|gif)$/i))try{_0x16aa79[_0x517fa7(0xb9)](_0x149433,{'video':{'url':_0x1c56f3},'caption':_0x400731},{'quoted':_0x564f9f});}catch(_0x58faf6){console[_0x517fa7(0xc2)](_0x517fa7(0xb1)+_0x58faf6),_0x3d9994('🥵🥵\x20Menu\x20erreur\x20'+_0x58faf6);}else{if(_0x1c56f3[_0x517fa7(0xb4)](/\.(jpeg|png|jpg)$/i))try{_0x16aa79[_0x517fa7(0xb9)](_0x149433,{'image':{'url':_0x1c56f3},'caption':_0x400731},{'quoted':_0x564f9f});}catch(_0x2f9636){console[_0x517fa7(0xc2)](_0x517fa7(0xb1)+_0x2f9636),_0x3d9994(_0x517fa7(0xb1)+_0x2f9636);}else _0x3d9994(_0x400731);}}else{if(!_0x9261f9){_0x3d9994(_0x517fa7(0xa5));return;};await _0x3d9994(_0x517fa7(0xa7)),_0x3d9994(_0x517fa7(0xbc));}}else{if(!_0x9261f9){_0x3d9994('Only\x20the\x20owner\x20can\x20\x20modify\x20the\x20alive');return;};const _0x477ee1=_0x1c91bc[_0x517fa7(0xae)]('\x20')['split'](';')[0x0],_0x5866df=_0x1c91bc[_0x517fa7(0xae)]('\x20')[_0x517fa7(0xbf)](';')[0x1];await addOrUpdateDataInAlive(_0x477ee1,_0x5866df),_0x3d9994(_0x517fa7(0xc1));}});function _0x4bf4(){const _0xb30ba7=['don\x27t\x20do\x20fake\x20things\x20:)','341656nAQFLr','2mndadY','split','742626ibGXhw','message\x20alive\x20refresh\x20successfully','log','\x0a\x20\x20\x20\x20\x20','10xzuphH','there\x20is\x20no\x20alive\x20for\x20this\x20bot','\x0a*Mode*\x20:\x20','You\x20have\x20not\x20yet\x20saved\x20your\x20alive,\x20to\x20do\x20this;\x20\x20enter\x20after\x20alive\x20your\x20message\x20and\x20your\x20image\x20or\x20video\x20link\x20in\x20this\x20context:\x20.alive\x20message;lien','6mfOCfb','format','\x0a*Time*\x20:\x20','DD/MM/YYYY','public','2452560sGZZWx','join','121635fbfjDQ','4674249TeUQds','🥵🥵\x20Menu\x20erreur\x20','\x0a*Date*\x20:\x20','toLocaleLowerCase','match','\x0a\x20\x20\x20\x0a*Owner*\x20:\x20','266976WevMZY','126480KPcRzU','/../set','sendMessage','Africa/Nairobi','setDefault'];_0x4bf4=function(){return _0xb30ba7;};return _0x4bf4();}
+const now = require('performance-now');
+const { franceking } = require('../main');
+
+if (!global.botStartTime) global.botStartTime = Date.now();
+
+function detectPlatform() {
+    const hostEnv = process.env.HOST_PROVIDER?.toLowerCase();
+
+    const providers = {
+        'optiklink': 'Optiklink.com',
+        'bot-hosting': 'Bot-Hosting.net',
+        'heroku': 'Heroku',
+        'railway': 'Railway',
+        'koyeb': 'Koyeb',
+        'render': 'Render',
+        'github': 'GitHub Actions',
+        'katabump': 'Katabump.com'
+    };
+
+    if (hostEnv && providers[hostEnv]) return providers[hostEnv];
+    if (process.env.RAILWAY_STATIC_URL || process.env.RAILWAY_ENVIRONMENT) return 'Railway';
+    if (process.env.KOYEB_ENV) return 'Koyeb';
+    if (process.env.RENDER) return 'Render';
+    if (process.env.GITHUB_WORKFLOW || process.env.GITHUB_ACTIONS) return 'GitHub Actions';
+    if (process.env.DYNO) return 'Heroku';
+
+    return 'Unknown (Linux)';
+}
+
+const getSenderId = (msg) => (msg.key?.participant || msg.key?.remoteJid || '0@s.whatsapp.net').split('@')[0];
+
+const createQuotedContact = (senderId) => ({
+    key: { fromMe: false, participant: '0@s.whatsapp.net', remoteJid: 'status@broadcast' },
+    message: {
+        contactMessage: {
+            displayName: 'FLASH-MD-V2',
+            vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:FLASH-MD-V2\nitem1.TEL;waid=${senderId}:${senderId}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`,
+        },
+    },
+});
+
+function formatUptime(ms) {
+    const sec = Math.floor(ms / 1000) % 60;
+    const min = Math.floor(ms / (1000 * 60)) % 60;
+    const hr = Math.floor(ms / (1000 * 60 * 60)) % 24;
+    const day = Math.floor(ms / (1000 * 60 * 60 * 24));
+    const parts = [];
+    if (day === 1) parts.push(`1 day`);
+    else if (day > 1) parts.push(`${day} days`);
+    if (hr === 1) parts.push(`1 hour`);
+    else if (hr > 1) parts.push(`${hr} h`);
+    if (min === 1) parts.push(`1 minute`);
+    else if (min > 1) parts.push(`${min} m`);
+    if (sec === 1) parts.push(`1 second`);
+    else if (sec > 1 || parts.length === 0) parts.push(`${sec} s`);
+    return parts.join(', ') || '0 second';
+}
+
+module.exports = [
+    {
+        name: 'alive',
+        get flashOnly() {
+            return franceking();
+        },
+        aliases: ['status', 'bot'],
+        description: 'Check if the bot is alive with uptime and ping.',
+        category: 'General',
+        execute: async (king, msg) => {
+            const fromJid = msg.key.remoteJid;
+            const senderId = getSenderId(msg);
+            const start = now();
+
+            const initialMsg = await king.sendMessage(fromJid, {
+                text: '🔄 Checking bot status...'
+            }, {
+                quoted: createQuotedContact(senderId)
+            });
+
+            const latency = (now() - start).toFixed(0);
+            await new Promise(res => setTimeout(res, 1000));
+
+            const uptime = Date.now() - global.botStartTime;
+            const formattedUptime = formatUptime(uptime);
+            const platform = detectPlatform();
+            const ramUsage = (process.memoryUsage().rss / 1024 / 1024).toFixed(1);
+
+            const finalText = `🟢 *FLASH-MD-V2 IS ONLINE*
+
+*⏱️ Uptime:* ${formattedUptime}
+*🏓 Ping:* ${latency} ms
+*🖥️ Platform:* ${platform}
+*💾 RAM Usage:* ${ramUsage} MB
+
+_Type *!help* to view all available commands._`;
+
+            await king.sendMessage(fromJid, {
+                text: finalText,
+                contextInfo: {
+                    forwardingScore: 1,
+                    isForwarded: true,
+                    forwardedNewsletterMessageInfo: {
+                        newsletterJid: '120363238139244263@newsletter',
+                        newsletterName: 'FLASH-MD',
+                        serverMessageId: -1
+                    }
+                }
+            }, { quoted: initialMsg });
+        }
+    }
+];
